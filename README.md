@@ -9,13 +9,16 @@
 <br>
 
 <p aligh="center">
+  <br>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruvvvx17&show_icons=true&locale=en&layout=compact" alt="dhruvvvx17" />
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=dhruvvvx17&show_icons=true&locale=en" alt="dhruvvvx17" />
 </p>
 </div>
 
+<div>
 <br>
-<br>
+<br>  
+</div>
 
 <h3 align="left">Connect with me:</h3>
 
