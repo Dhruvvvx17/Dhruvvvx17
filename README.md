@@ -1,23 +1,22 @@
 <h1 align="center">Hi 👋, I'm Dhruv Vohra</h1>
 <h3 align="center">  Developer | CS Grad Student @ Arizona State University</h3>
 
-<div>
+
   <p>
-    <img align="left" alt="Vibing GIF" width="550" height=" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">  
-    <div align="right">
+    <img align="left" alt="Vibing GIF" width="525" height="410" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">  
+    <p align="right">
       <br>
-      <p align="right"> <img src="https://komarev.com/ghpvc/?username=dhruvvvx17&label=Profile%20views&color=24a3ee&style=flat" alt="dhruvvvx17" /> </p>
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruvvvx17&show_icons=true&locale=en&layout=compact" alt="dhruvvvx17" />
-      <br>
+      <br><br>
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=dhruvvvx17&show_icons=true&locale=en" alt="dhruvvvx17" /></p>
-    <div>
+    <p>
   </p>  
-</div>
 
 <br>
 
 
-<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvvvx17&label=Profile%20views&color=24a3ee&style=flat" alt="dhruvvvx17" /> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 
@@ -29,24 +28,24 @@
   <a href="https://www.leetcode.com/dhruvvvx17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dhruvvvx17" height="30" width="40" /></a>
   </p>
   
-  - 🔭 I’m currently working on [Movie Recommendation System(CSE 511)](https://github.com/Dhruvvvx17/Movie-Recommendation-CSE-511)
+  - 📍 I’m currently based in Tempe, AZ. I'm originally from Bangalore, India
+
+  - 🎓I'm pursuing a Master's in Computer Science from ASU
   
-  - 🌱 I’m currently learning **GraphQL**
+  - 📫 Reach me at **dhruv.v405@gmail.com**
+
+  - 📄 Know about my experiences from my <a href="https://drive.google.com/file/d/1HfhVidjBgrkQBebRs0XpOW2ScK4CJPq4/view?usp=sharing)">Resume</a>
+
+  - 🌱 I’m currently learning **Design Patterns**
   
-  - 👯 I’m looking to collaborate on [Daily Leetcode Problems!](https://github.com/Dhruvvvx17/LeetCode-Solution)
-  
-  - 💬 Ask me about **Microservices, App Development, Design Patterns**
-  
-  - 📫 How to reach me **dhruv.v405@gmail.com**
-  
-  - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1HfhVidjBgrkQBebRs0XpOW2ScK4CJPq4/view?usp=sharing)">Resume</a>
+  - 👯 I’m looking to collaborate on interesting App/Web development projects  
   
   - ⚡ Fun fact **I am close to creating a startup, just waiting to find a garage**
 </div>
 
 <div align="left">
+
   <p align="left">
-  
   <h3 align="left">Languages: </h3>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
