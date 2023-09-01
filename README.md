@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dhruv Vohra</h1>
 <h3 align="center">A Computer Science Grad Student @ Arizona State University</h3>
 
+<img align="right" alt="Vibing GIF" width="400" src="![68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966](https://github.com/Dhruvvvx17/Dhruvvvx17/assets/35966910/105c55fe-57b5-4306-b6d6-e947964bbc99)">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvvvx17&label=Profile%20views&color=24a3ee&style=flat" alt="dhruvvvx17" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhruvvvx17&theme=onedark" alt="dhruvvvx17" /></a> </p>
@@ -15,7 +17,7 @@
 
 - 📫 How to reach me **dhruv.v405@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1HfhVidjBgrkQBebRs0XpOW2ScK4CJPq4/view?usp=sharing](https://drive.google.com/file/d/1HfhVidjBgrkQBebRs0XpOW2ScK4CJPq4/view?usp=sharing)
+- 📄 Know about my experiences <a href=[https://drive.google.com/file/d/1HfhVidjBgrkQBebRs0XpOW2ScK4CJPq4/view?usp=sharing](https://drive.google.com/file/d/1HfhVidjBgrkQBebRs0XpOW2ScK4CJPq4/view?usp=sharing)>Resume</a>
 
 - ⚡ Fun fact **I am close to creating a startup, just waiting to find a garage**
 
