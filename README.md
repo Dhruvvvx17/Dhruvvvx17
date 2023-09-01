@@ -1,22 +1,27 @@
 <h1 align="center">Hi 👋, I'm Dhruv Vohra</h1>
 <h3 align="center">  Developer | CS Grad Student @ Arizona State University</h3>
 
-
-  <p>
-    <img align="left" alt="Vibing GIF" width="525" height="410" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">  
-    <p align="right">
-      <br>
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruvvvx17&show_icons=true&locale=en&layout=compact" alt="dhruvvvx17" />
-      <br><br>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=dhruvvvx17&show_icons=true&locale=en" alt="dhruvvvx17" /></p>
-    <p>
-  </p>  
+<div>
+<p align="center">
+  <img alt="Vibing GIF" width="525" height="410" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">  
+</p>
 
 <br>
 
+<p aligh="center">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruvvvx17&show_icons=true&locale=en&layout=compact" alt="dhruvvvx17" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=dhruvvvx17&show_icons=true&locale=en" alt="dhruvvvx17" />
+</p>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvvvx17&label=Profile%20views&color=24a3ee&style=flat" alt="dhruvvvx17" /> </p>
+<br>
 
+<p>
+  <img src="https://komarev.com/ghpvc/?username=dhruvvvx17&label=Profile%20views&color=24a3ee&style=flat" alt="dhruvvvx17" />
+</p>
+
+<br>
+<br>
 
 <h3 align="left">Connect with me:</h3>
 
