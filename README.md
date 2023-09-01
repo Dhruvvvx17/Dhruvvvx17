@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvvvx17&label=Profile%20views&color=24a3ee&style=flat" alt="dhruvvvx17" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhruvvvx17" alt="dhruvvvx17" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhruvvvx17&theme=onedark" alt="dhruvvvx17" /></a> </p>
 
 - 🔭 I’m currently working on [Movie Recommendation System(CSE 511)](https://github.com/Dhruvvvx17/Movie-Recommendation-CSE-511)
 
