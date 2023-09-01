@@ -20,8 +20,8 @@
 <br>  
 </div>
 
-<hr>
 
+<p align="left">
 <h3 align="left">Connect with me:</h3>
 
 <div align="left">
@@ -52,6 +52,8 @@
   <img src="https://komarev.com/ghpvc/?username=dhruvvvx17&label=Profile%20views&color=24a3ee&style=flat" alt="dhruvvvx17" />
 </p>
 </div>
+</p>
+
 
 <div align="left">
 
