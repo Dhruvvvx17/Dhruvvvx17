@@ -15,13 +15,12 @@
 </div>
 
 <br>
+<br>
+<br>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=dhruvvvx17&label=Profile%20views&color=24a3ee&style=flat" alt="dhruvvvx17" />
 </p>
-
-<br>
-<br>
 
 <h3 align="left">Connect with me:</h3>
 
