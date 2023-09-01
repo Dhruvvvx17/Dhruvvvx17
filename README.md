@@ -3,7 +3,7 @@
 
 <div>
 <p align="center">
-  <img alt="Vibing GIF" width="525" height="410" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">  
+  <img alt="Vibing GIF" width="500" height="300" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">  
 </p>
 
 <br>
@@ -14,11 +14,7 @@
 </p>
 </div>
 
-<div>  
-<p>
-  <img src="https://komarev.com/ghpvc/?username=dhruvvvx17&label=Profile%20views&color=24a3ee&style=flat" alt="dhruvvvx17" />
-</p>
-</div>
+
 <h3 align="left">Connect with me:</h3>
 
 <div align="left">
@@ -42,6 +38,12 @@
   - 👯 I’m looking to collaborate on interesting App/Web development projects  
   
   - ⚡ Fun fact **I am close to creating a startup, just waiting to find a garage**
+</div>
+
+<div>  
+<p>
+  <img src="https://komarev.com/ghpvc/?username=dhruvvvx17&label=Profile%20views&color=24a3ee&style=flat" alt="dhruvvvx17" />
+</p>
 </div>
 
 <div align="left">
