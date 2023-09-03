@@ -109,7 +109,47 @@
 </p>
 
 <p>
-  <h2><u>Professional Experience</u>:</h2>
+  <h2>Professional Experience:</h2>
+  <p>
+  <h4>MathWorks Inc., Massachusetts, USA: EDG Intern (Infrastructure Arch. and Tools)</h4>
+  <i>May 2023 - August 2023</i>
 
-  <h4>MathWorks, Inc.</h4>
+  - Engineered Order Only Dependencies for MATLAB BuildTool to enable relative ordering between tasks in a build process, effectively addressing the needs of 80% MATLAB customers.
+
+  - Devised efficient graph-based algorithms for cycle detection and DAG manipulation. Led biweekly design discussions and demos, leveraging presentations and innovative engagement to nurture collaborative synergy within the team.
+
+  - Employed test-driven development and object-oriented MATLAB to deliver full-scope results in 12 weeks, meeting all project requirements and integrating feature into next release (MATLAB 24a).
+  </p>
+
+  <h2></h2>
+
+  <p>
+    <h4>Oracle, Bangalore, India: Member Technical Staff (Oracle Cloud – Backup and Restore team)</h4>
+    <i>August 2021 - July 2022</i>
+
+  - Resolved critical bugs by performing deep root cause analysis and patching required bug fixes.
+
+  - Improved error handling across workflows, reducing time spent on parsing application logs manually by 75%.
+
+  - Enhanced 15+ backup/restore APIs to cater to different sets of user inputs and system configurations.
+
+  - Upgraded billing computation algorithms based on resource consumption as new features were added to Oracle cloud.
+
+  - Leveraged project management software JIRA, version control software Git and Java for programming.
+  </p>
+
+  <h2></h2>
+
+  <p>
+  <h4>Samsung R&D Institute, Bangalore, India: Software Engineering Intern (Voice Intelligence team)</h4>
+  <i>January 2021 - June 2021</i>
+
+  - Designed and developed AIOps (AI/ML enabled operations) service to automate and enhance IT operations by 60% for the Bixby 2.0 voice intelligence team. Used Flask and Python to write RESTful APIs with MongoDB as the database.
+
+  - Architected machine learning powered features such as timeseries based metric forecasting, anomaly detection and outlier detection in cloud instances achieving a 96% accuracy in metric forecasting.
+ 
+  </p>
+
+  <h2></h2>
+
 </p>
