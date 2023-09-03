@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Dhruv Vohra</h1>
 <h3 align="center">  Developer | CS Grad Student @ Arizona State University</h3>
 
-<div>
+
 <p align="center">
-  <img alt="Vibing GIF" width="500" height="300" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">  
+  <img alt="GIF" width="500" height="300" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">  
 </p>
 
 <br>
 
 <p align="left">
-<div align="left">
-  - 📍 I’m currently based in Tempe, AZ. I'm originally from Bangalore, India
 
-  - 🎓I'm pursuing a Master's in Computer Science from ASU
+  - 📍 Tempe, AZ | Bangalore India
+
+  - 🎓I'm pursuing a Master's in Computer Science from ASU 🔱
   
   - 📫 Reach me at **dhruv.v405@gmail.com**
 
@@ -25,26 +25,23 @@
   - ⚡ Fun fact **I am close to creating a startup, just waiting to find a garage**
 
 <h3 align="left">Connect with me:</h3>
-  <p align="left">
-  <a href="https://linkedin.com/in/dhruv-vohra-dv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhruv-vohra-dv" height="30" width="40" /></a>
-  <a href="https://instagram.com/dhruvvvx17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhruvvvx17" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/dhruvvvx17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dhruvvvx17" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/dhruvvvx17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dhruvvvx17" height="30" width="40" /></a>
-  </p>
-</div>
 
-<div>  
+  <p align="left">
+    <a href="https://linkedin.com/in/dhruv-vohra-dv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhruv-vohra-dv" height="30" width="40" /></a>
+    <a href="https://instagram.com/dhruvvvx17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhruvvvx17" height="30" width="40" /></a>
+    <a href="https://www.hackerrank.com/dhruvvvx17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dhruvvvx17" height="30" width="40" /></a>
+    <a href="https://www.leetcode.com/dhruvvvx17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dhruvvvx17" height="30" width="40" /></a>
+  </p>
+</p>
+
+
 <p>
   <img src="https://komarev.com/ghpvc/?username=dhruvvvx17&label=Profile%20views&color=24a3ee&style=flat" alt="dhruvvvx17" />
-</p>
-</div>
 </p>
 
 <hr>
 
-<div align="left">
-
-  <p align="left">
+<p align="left">
   <h3 align="left">Languages: </h3>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
@@ -89,18 +86,28 @@
   <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
   <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a>
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
-  </p>
-</div> 
+</p>
 
- 
+<p>
+  <br>
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvvvx17&" alt="dhruvvvx17" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruvvvx17&show_icons=true&locale=en&layout=compact" alt="dhruvvvx17" />
+</p>
+
+<p>
+  <img align="center" width="175" height="110" src="https://1000logos.net/wp-content/uploads/2021/06/Arizona-State-Sun-Devils-logo.png"/>
+</p>
+
+<br>
+<br>
 <br>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvvvx17&" alt="dhruvvvx17" /></p>
-
-<p aligh="center">
-  <br>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruvvvx17&show_icons=true&locale=en&layout=compact" alt="dhruvvvx17" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=dhruvvvx17&show_icons=true&locale=en" alt="dhruvvvx17" />
+<p align="center">
+  <hr>
 </p>
-</div>
 
+<p>
+  <h2><u>Professional Experience</u>:</h2>
+
+  <h4>MathWorks, Inc.</h4>
+</p>
