@@ -94,10 +94,9 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruvvvx17&show_icons=true&locale=en&layout=compact" alt="dhruvvvx17" />
 </p>
 
-<p>
-  <img align="center" width="175" height="110" src="https://1000logos.net/wp-content/uploads/2021/06/Arizona-State-Sun-Devils-logo.png"/>
-</p>
-
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
