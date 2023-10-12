@@ -16,7 +16,7 @@
   
   - 📫 Reach me at **dhruv.v405@gmail.com**
 
-  - 📄 Know about my experiences from my <a href="https://drive.google.com/file/d/1HfhVidjBgrkQBebRs0XpOW2ScK4CJPq4/view?usp=sharing)">Resume</a>
+  - 📄 Know about my experiences from my <a href="https://drive.google.com/file/d/1LE0n6JKnK3oy47pdNGzP3q6aKpHSvUcx/view">Resume</a>
 
   - 🌱 I’m currently learning **Design Patterns**
   
