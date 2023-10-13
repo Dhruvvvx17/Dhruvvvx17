@@ -31,6 +31,7 @@
     <a href="https://instagram.com/dhruvvvx17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhruvvvx17" height="30" width="40" /></a>
     <a href="https://www.hackerrank.com/dhruvvvx17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dhruvvvx17" height="30" width="40" /></a>
     <a href="https://www.leetcode.com/dhruvvvx17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dhruvvvx17" height="30" width="40" /></a>
+    <a href="https://leetcode.com/dhruvvvx17_II/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dhruvvvx17" height="30" width="40" /></a>
   </p>
 </p>
 
