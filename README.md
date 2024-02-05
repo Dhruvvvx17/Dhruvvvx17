@@ -18,11 +18,10 @@
 
   - 📄 Know about my experiences from my <a href="https://drive.google.com/file/d/1LE0n6JKnK3oy47pdNGzP3q6aKpHSvUcx/view">Resume</a>
 
-  - 🌱 I’m currently learning **Design Patterns**
+  - 🌱 I’m currently learning Google Cloud Platform (GCP) fundamentals
   
-  - 👯 I’m looking to collaborate on interesting App/Web development projects  
-  
-  - ⚡ Fun fact **I am close to creating a startup, just waiting to find a garage**
+  - 👯 I’m looking to collaborate on interesting App/Web development projects
+
 
 <h3 align="left">Connect with me:</h3>
 
