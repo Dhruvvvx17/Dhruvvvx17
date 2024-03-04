@@ -127,7 +127,7 @@
     <h4>Oracle, Bangalore, India: Member Technical Staff (Oracle Cloud – Backup and Restore team)</h4>
     <i>August 2021 - July 2022</i>
 
-  - Resolved critical bugs by performing deep root cause analysis and patching required bug fixes.
+  - Developed over 15 services with SQL, Python & Airflow to automate tasks in a cloud infrastructure analytics tool.
 
   - Improved error handling across workflows, reducing time spent on parsing application logs manually by 75%.
 
