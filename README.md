@@ -16,7 +16,7 @@
   
   - 📫 Reach me at **dhruv.v405@gmail.com**
 
-  - 📄 Know about my experiences from my <a href="https://drive.google.com/file/d/1LE0n6JKnK3oy47pdNGzP3q6aKpHSvUcx/view">Resume</a>
+  - 📄 Know about my experiences from my <a href="https://drive.google.com/file/d/1_KtRqiZEdsK6s5oSNKuW3QrH7g2vip5h/view?usp=sharing">Resume</a>
 
   - 🌱 I’m currently learning Google Cloud Platform (GCP) fundamentals
   
