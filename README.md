@@ -10,7 +10,7 @@
 
 <p align="left">
 
-  - 📍 Tempe, AZ | Bangalore India
+  - 📍 Tempe, AZ | Bangalore, India
 
   - 🎓I'm pursuing a Master's in Computer Science from ASU 🔱
   
