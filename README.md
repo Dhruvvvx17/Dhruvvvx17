@@ -16,7 +16,7 @@
   
   - 📫 Reach me at **dhruv.v405@gmail.com**
 
-  - 📄 Know about my experiences from my <a href="https://drive.google.com/file/d/1_KtRqiZEdsK6s5oSNKuW3QrH7g2vip5h/view">Resume</a>
+  - 📄 Know about my experiences from my <a href="https://drive.google.com/file/d/1qZxCEby-fhbw93P4-NF8u5xlwa80qVVo/view">Resume</a>
 
   - 🌱 I’m currently preparing for Amazon Web Services (AWS) - Data Engineering Certification
   
