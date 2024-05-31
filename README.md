@@ -16,11 +16,11 @@
   
   - 📫 Reach me at **dhruv.v405@gmail.com**
 
-  - 📄 Know about my experiences from my <a href="https://drive.google.com/file/d/1_KtRqiZEdsK6s5oSNKuW3QrH7g2vip5h/view?usp=sharing">Resume</a>
+  - 📄 Know about my experiences from my <a href="https://drive.google.com/file/d/1_KtRqiZEdsK6s5oSNKuW3QrH7g2vip5h/view">Resume</a>
 
-  - 🌱 I’m currently learning Google Cloud Platform (GCP) fundamentals
+  - 🌱 I’m currently preparing for Amazon Web Services (AWS) - Data Engineering Certification
   
-  - 👯 I’m looking to collaborate on interesting App/Web development projects
+  - 👯 I’m looking to collaborate on interesting AI/ML and Backend Development projects
 
 
 <h3 align="left">Connect with me:</h3>
